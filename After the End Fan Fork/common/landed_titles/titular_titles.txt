@@ -1,4 +1,4 @@
-###ÄNSI
+###ï¿½NSI
 
 # Cultural empires
 e_cuba = {
@@ -2422,7 +2422,7 @@ e_hopi = {
 e_innu = {
 	color={ 210 195 190 }
 	color2={ 210 50 20 }
-	capital = 595 # Sept-Îles
+	capital = 595 # Sept-ï¿½les
 	
 	culture = innu 
 	allow = {
@@ -4462,68 +4462,70 @@ k_northland = {
 }
 
 ##texas titulars
+e_lone_star = {
 
-k_westex = {
-	color={ 246 245 209 }
-	color2={ 255 255 236 }
+	k_westex = {
+		color={ 246 245 209 }
+		color2={ 255 255 236 }
 
-	capital = 313 # El Paso
+		capital = 313 # El Paso
 	
-	allow = { always = no }
-}
+		allow = { always = no }
+	}
 
-k_highlands = {
-	color={ 255 43 43 }
-	color2={ 255 255 236 }
+	k_highlands = {
+		color={ 255 43 43 }
+		color2={ 255 255 236 }
 
-	capital = 316 # Lubbock
+		capital = 316 # Lubbock
 	
-	allow = { always = no }
-}
+		allow = { always = no }
+	}
 
-k_panhandle = {
-	color = { 255 247 147 }
-	color2= { 255 255 255 }
+	k_panhandle = {
+		color = { 255 247 147 }
+		color2= { 255 255 255 }
 
-	capital = 318 #amarillo
+		capital = 318 #amarillo
 	
-	allow = { always = no }
-}
+		allow = { always = no }
+	}
 
-k_yellowrose = {
-	color={ 241 255 34 }
-	color2={ 255 255 236 }
+	k_yellowrose = {
+		color={ 241 255 34 }
+		color2={ 255 255 236 }
 
-	capital = 1231 # Bexar
+		capital = 1231 # Bexar
 	
-	allow = { always = no }
-}
+		allow = { always = no }
+	}
 
-k_texarkana = {
-	color={ 255 20 20 }
-	color2={ 255 255 236 }
+	k_texarkana = {
+		color={ 255 20 20 }
+		color2={ 255 255 236 }
 
-	capital = 308 # Texarkana 
-	
-	allow = { always = no }
-}
+		capital = 308 # Texarkana 
 
-k_silvercrown = {
-	color={ 255 255 255 }
-	color2={ 255 255 236 }
+		allow = { always = no }
+	}
 
-	capital = 1235 # Austin
-	
-	allow = { always = no }
-}
+	k_silvercrown = {
+		color={ 255 255 255 }
+		color2={ 255 255 236 }
 
-k_star_coast = {
-	color={ 255 255 255 }
-	color2={ 255 255 236 }
+		capital = 1235 # Austin
 
-	capital = 1235 # Austin
-	
-	allow = { always = no }
+		allow = { always = no }
+	}
+
+	k_star_coast = {
+		color={ 255 255 255 }
+		color2={ 255 255 236 }
+
+		capital = 1235 # Austin
+
+		allow = { always = no }
+	}
 }
 
 ##Holy Fury stuff in other files##
