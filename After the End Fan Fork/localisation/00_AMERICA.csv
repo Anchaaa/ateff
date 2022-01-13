@@ -630,6 +630,11 @@ wormwoodist_DESC;The Wormwoodist faith emerged at around the same time as Fallin
 edenite;Edenite;;;;;;;;;;;;x
 edenite_DESC;Originating between the Rocky Mountains and High Plains, Edenites are born from influences from both. They believe in the importance of the Great West and especially the Rockies for its great natural beauty and bounty, a New Eden gifted to man. The Edenites' connection to the spirits is of the utmost importance to them, striving to find better ways to commune with both the Heavenly Father and Mother Earth through meditation and special substances. Seemingly influenced and considered astray by mainline christian, mormon, and gaian doctrines, Edenites believe in the equal status of men and women.;;;;;;;;;;;;x
 edenite_FEATURES;§Y*§! Rulers can order adult unlanded courtiers to become ordained.\n§Y*§! Homosexual Edenite rulers may marry other homosexual characters.;;;;;;;;;;;;;x
+syncretize_edenite;Syncretize with the True Faiths;;;;;;;;;;;;;x
+syncretize_edenite_desc;Some local faiths contain snipets of the true nature of God, its only nature to absorb some aspects of their religiosity.;;;;;;;;;;;;;x
+EVTDESC_edenite_1;Some local faiths contain snipets of the true nature of God, its only nature to absorb some aspects of their religiosity.;;;;;;;;;;;;;x
+EVTOPTA_edenite_1;There is some truth in the Mormons and the Cetics...;;;;;;;;;;;;;x
+EVTOPTB_edenite_1;There is some truth in the Gaians and the Trailwalkers...;;;;;;;;;;;;;x
 theocratic_feudal_government_FEATURES;§Y*§! Captains can militarize the realm in case of war against people of other faiths.\n§Y*§! Zealous or devout captains can ask to inform realm direction. \n§Y*§! Zealous or devout captains can ask other captains court-chaplains to discharge them. \n§Y*§! Court-chaplains are the real rulers of the realm, and thus cant be fired. \n;;;;;;;;;;;;;x
 thelema;Thelema;;;;;;;;;;;;;x
 thelema_DESC;Thelema is a British mystic religion "spiritual philosophy" developed by Aleister Crowley, based on the law: "Do what thou wilt shall be the whole of the Law." It is a polytheistic religion that draws its pantheon of gods from the religious beliefs of Ancient Egypt.;;;;;;;;;;;;;x
@@ -758,7 +763,7 @@ patria_bolivar_desc;Simón Bolívar, also called Saint Peter, is the prócer of war
 patria_manuelita;Follower of Manuelita;;;;;;;;;;;;;x
 patria_manuelita_desc;Manuela Sáenz, also called the Magdalene, is the prócer of love and fertility. Her followers are passionate, gregarious and devoted to their families. Her followers are able to manage succeession via election.;;;;;;;;;;;;;x
 patria_santander;Follower of Santander;;;;;;;;;;;;;x
-patria_santander_desc;Francisco Santader, also called Saint Francis, is the prócer of law and order. His followers are known to be great administrators. His followers shy awway from war, but have great flexibility in choosing successors.;;;;;;;;;;;;;x
+patria_santander_desc;Francisco Santader, also called Saint Francis, is the prócer of law and order. His followers are known to be great administrators. Even if they shy away from war, they have great flexibility in choosing successors.;;;;;;;;;;;;;x
 fords_striker;Ford's Striker;;;;;;;;;;;;;x
 fords_striker_desc;This character has fought to defend the holy factories in the name of Father Ford.;;;;;;;;;;;;;x
 joropo_cantor;Joropo Cantor;;;;;;;;;;;;;x
@@ -1012,6 +1017,18 @@ embrace_twelve_tribes;Embrace Twelve Tribes;;;;;;;;;;;;;x
 embrace_twelve_tribes_desc;Embrace the belief in Prophet Gad and the Twelve Tribes of Israel mansion, seeing equality with Judaism and Christianity.;;;;;;;;;;;;;x
 embrace_bobo_ashanti;Embrace Bobo Ashanti;;;;;;;;;;;;;x
 embrace_bobo_ashanti_desc;Embrace the belief in Bobo Ashanti, emphasizing the original rituals of the Rasta faith.;;;;;;;;;;;;;x
+onate_money_to_chrismon_tree;Donate 300¤ to the Knights of the Chrismon Tree;;;;;;;;;;;;;x
+donate_money_to_chrismon_tree_desc;I can donate money to the Knights of the Chrismon Tree in exchange for [Player.Religion.GetPietyName] and lifelong respect from the Church.;;;;;;;;;;;;;x
+donate_money_to_order_of_baptists;Donate 300¤ to the Order of the Baptists.;;;;;;;;;;;;;x
+donate_money_to_order_of_baptists_desc;I can donate money to the Order of the Baptists in exchange for [Player.Religion.GetPietyName] and lifelong respect from the Church.;;;;;;;;;;;;;x
+donate_money_to_pentecostal_oathsworn;Donate 300¤ to the Pentecostal Oathsworn.;;;;;;;;;;;;;x
+donate_money_to_pentecostal_oathsworn_desc;I can donate money to the Pentecostal Oathsworn in exchange for [Player.Religion.GetPietyName] and lifelong respect from the Church.;;;;;;;;;;;;;x
+expel_order_of_baptists;Expel the Order of the Baptists.;;;;;;;;;;;;;x
+expel_order_of_baptists_desc;I can drive the Order of the Baptists from my realm and seize their castles. However, it is a very impious thing to do...;;;;;;;;;;;;;x
+expel_pentecostal_oathsworn;Expel the Pentecostal Oathsworn;;;;;;;;;;;;;x
+expel_pentecostal_oathsworn_desc;I can drive the Pentecostal Oathsworn from my realm and seize their castles. However, it is a very impious thing to do...;;;;;;;;;;;;;x
+expel_chrismon_tree;Expel the Knights of the Chrismon Tree;;;;;;;;;;;;;x
+expel_chrismon_tree_desc;I can drive the Knights of the Chrismon Tree from my realm and seize their castles. However, it is a very impious thing to do...;;;;;;;;;;;;;x
 
 ###########Regions###########
 
