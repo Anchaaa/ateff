@@ -3488,7 +3488,7 @@ oldworld = {
 		evil_god_names = {
 			GOD_THE_RED_DRAGON GOD_THE_ENEMY GOD_ERIS
 		}
-		crusade_name = GREAT_HOLY_WAR
+		crusade_name = RESTORATION
 		scripture_name = THE_GREAT_CHARTER
 		priest_title = PRIEST
 		can_call_crusade = yes
